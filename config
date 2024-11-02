@@ -12,7 +12,7 @@
 set $mod Mod4
 
 # Start feh -- Para el Walppaper
-exec_always --no-startup-id feh --bg-scale ~/Pictures/Wallpapers/minimalist-3840X2160-wallpaper-nfy4jmavovghf9ko.jpeg
+exec_always --no-startup-id feh --bg-scale ~/Pictures/Wallpapers/retroscifi1.png
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
